@@ -1,6 +1,7 @@
 ## Hi there 👋
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Clarus23&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clarus23)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clarus23)]
+(https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjs3023)](https://solved.ac/dnjs3023)
